@@ -16,9 +16,8 @@ I'm Tony,  i'm currently a second year student, i'm studying Code and Digital In
  
  
  ## How to reach me :  
- ![img align ="left" alt ="https://www.linkedin.com/in/tony-zhang-b97296222/" width="22px" src="img/in.png" />] [https://www.linkedin.com/in/tony-zhang-b97296222/]
- 
- 
+<a href="https://www.linkedin.com/in/tony-zhang-b97296222/"  width="22px" img src="img/in.png" alt="tony-zhang-b97296222"></a>
+
 <!---
 AznTufu/AznTufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
