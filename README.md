@@ -1,12 +1,23 @@
 # 👋  Hey! Nice to see you.
-## Welcome to my page ! I'm Tony, developer from  Paris, France
 
-I’m currently learning :
+![counter](https://enz37bb9lqi2bjm.m.pipedream.net)
+
+I'm Tony,  i'm currently a second year student, i'm studying Code and Digital Innovation at IIM - Digital School Paris in France .
+
+<h4> Currently learning : </h4>
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py,php,unity&theme=light)](https://skills.thijs.gg)
 
- 📫 How to reach me :  
- * https://www.linkedin.com/in/tony-zhang-b97296222/ 
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azntufu&show_icons=true)
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azntufu)](https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
+ 
+ ## How to reach me :  
+ ![img align ="left" alt ="https://www.linkedin.com/in/tony-zhang-b97296222/" width="22px" src="img/in.png" />] [https://www.linkedin.com/in/tony-zhang-b97296222/]
+ 
  
 <!---
 AznTufu/AznTufu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
