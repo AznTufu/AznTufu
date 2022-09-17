@@ -15,7 +15,7 @@ I'm Tony,  i'm currently a second year student, i'm studying Code and Digital In
  
  
  
- ## How to reach me :  
+ <h4> How to reach me :  </h4>
 <a href="https://www.linkedin.com/in/tony-zhang-b97296222/" ><img src="img/in.png" width="100px" alt="tony-zhang-b97296222"></a> 
 
 <!---
