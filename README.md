@@ -6,8 +6,8 @@ I'm Tony,  i'm currently a second year student, i'm studying Code and Digital In
 
 <h4> Currently learning : </h4>
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,py,php,unity&theme=light)](https://skills.thijs.gg)
-
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,sass,swift&theme=light)](https://skills.thijs.gg) </br>
+[![My Skills](https://skills.thijs.gg/icons?i=vue,py,php,tailwind,wordpress&theme=light)](https://skills.thijs.gg)
   
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azntufu&show_icons=true)
  
